@@ -45,12 +45,14 @@
 
         <h1>{{ site.title }}</h1>
 
-        {% if site.position %}
-        <position style="font-size:1.10rem;">{{ site.position }}</position>
-        <br>
-        {% endif %}
+        
         {% if site.affiliation %}
         <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
+        <br>
+        {% endif %}
+
+        {% if site.position %}
+        <position style="font-size:1.30rem;">{{ site.position }}</position>
         <br>
         {% endif %}
         {% if site.email %}
