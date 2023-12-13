@@ -2,16 +2,20 @@
 layout: homepage
 ---
 
-## About Me
+<!-- ## About Me -->
 
-I am a fourth-year undergraduate at Tsinghua University.
+<strong>Welcome to my website! :) </strong> \
+ \
+My name is Xiaoyue Xu (徐潇悦). I am a fourth-year undergraduate at Tsinghua University, majoring in Computer Science and Technology.
 
 
 {% include_relative _includes/publications.md %}
 
 <!-- {% include_relative _includes/services.md %} -->
 
-## Research Experience
+<!-- ## Research Experience -->
+{% include_relative _includes/experience.md %}
 
+{% include_relative _includes/honors.md %}
 
-## Honors&Awards
+<!-- ## Honors&Awards -->
