@@ -10,6 +10,10 @@ main:
     # image: ./assets/img/teaser_example_2.png
     notes: findings
 
+  - title: "Learning Heterogeneous Mixture of Hash Experts for Highly Scalable Neural Radiance Fields"
+    authors: Zhenxing Mi, <strong>Xiaoyue Xu</strong>, Dan Xu
+    # conference_short: CVPR
+    conference: Technical Report.
     # pdf: https://arxiv.org/pdf/2002.10211.pdf
     # code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
