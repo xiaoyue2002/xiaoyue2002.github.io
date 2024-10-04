@@ -6,7 +6,7 @@ layout: homepage
 
 <strong>Welcome to my website! :) </strong> \
  \
-My name is Xiaoyue Xu (徐潇悦). I am a senior undergradua at Tsinghua University, majoring in Computer Science and Technology. I'm applying for CS PhD programs starting in 22025fall.
+My name is Xiaoyue Xu (徐潇悦). I am a senior undergradua at Tsinghua University, majoring in Computer Science and Technology. I'm applying for CS PhD programs starting in 2025fall.
 
 
 {% include_relative _includes/publications.md %}
