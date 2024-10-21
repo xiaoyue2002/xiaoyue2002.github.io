@@ -8,7 +8,7 @@
   </li>
   <li style="display: flex; justify-content: space-between; margin-bottom: 10px;">
     <span><strong>Undergraduate Research Intern, THUNLP, THU.</strong></span>
-    <span>Advised by Prof. Zhiyuan Liu. 2022 - Present.</span>
+    <span>Advised by Prof. Zhiyuan Liu. 2022 - 2023.</span>
   </li>
   <li style="display: flex; justify-content: space-between; margin-bottom: 10px;">
     <span><strong>Visiting Research Intern, HKUST.</strong></span>
