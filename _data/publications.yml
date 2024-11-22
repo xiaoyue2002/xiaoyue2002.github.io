@@ -1,7 +1,7 @@
 main:
   - title: "Stress-Testing Long-Context Language Models with Lifelong ICL and Task Haystack"
     authors: <strong>Xiaoyue Xu*</strong>, Qinyuan Ye, Xiang Ren
-    conference: Neural Information Processing Systems <strong>(Neural)</strong> Database&Benchmark Track, 2024
+    conference: Neural Information Processing Systems <strong>(NeurIPS)</strong> Database&Benchmark Track, 2024
     pdf: https://arxiv.org/abs/2407.16695
     code: https://github.com/INK-USC/Lifelong-ICL
 
