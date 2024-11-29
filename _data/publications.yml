@@ -1,9 +1,10 @@
 main:
   - title: "Stress-Testing Long-Context Language Models with Lifelong ICL and Task Haystack"
-    authors: <strong>Xiaoyue Xu*</strong>, Qinyuan Ye, Xiang Ren
+    authors: <strong>Xiaoyue Xu*</strong>, Qinyuan Ye*, Xiang Ren
     conference: Neural Information Processing Systems <strong>(NeurIPS)</strong> Database&Benchmark Track, 2024
     pdf: https://arxiv.org/abs/2407.16695
     code: https://github.com/INK-USC/Lifelong-ICL
+    page: https://inklab.usc.edu/lifelong-icl/
 
   - title: "Boosting Inference Efficiency: Unleashing the Power of Parameter-Shared Pre-trained Language Model"
     authors: Weize Chen*, <strong>Xiaoyue Xu</strong>*, Xu Han, Yankai Lin, Ruobing Xie, Zhiyuan Liu, Maosong Sun, Jie Zhou.
